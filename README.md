@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Shami Kumar</h1><br><h3 align="center">CSE (Data Science) || AI Agent Engineering Enthusiast || Backend Developer From India</h3><br><br><br>🎓 CSE (DS) Undergraduate (2024–2028)<br>🤖 Interested in AI Agents & Intelligent Systems<br>💻 Backend Dev (Node.js, Express, MySQL)<br>🧠 50+ LeetCode <br>🚀 Building real-world backend & AI projects<br><br>⭐ Learning. Building. Improving
+<h1 align="center">Hi 👋, I'm Shami Kumar</h1><br><h3 align="center">Passionate AI Agent Engineer || Backend Developer Engineer || Shami kumar From India</h3><br><br><br>🎓 CSE (DS) Undergraduate (2024–2028)<br>🤖 Interested in AI Agents & Intelligent Systems<br>💻 Backend Dev (Node.js, Express, MySQL)<br>🧠 50+ LeetCode <br>🚀 Building real-world backend & AI projects<br><br>⭐ Learning. Building. Improving
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shami-sharma&theme=radical&no-frame=false&no-bg=true&margin-w=4)
